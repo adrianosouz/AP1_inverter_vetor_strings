@@ -1,0 +1,1 @@
+# AP1_inverter_vetor_strings
